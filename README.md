@@ -125,3 +125,8 @@ python web_vulnerability_scanner.py --auto-webshell php --output-webshell shell.
 
 ## 免责声明
 本工具仅供学习和研究使用，作者不对使用本工具造成的任何损失或违法行为负责。
+## 交流学习
+QQ群：
+```
+521292550
+```
