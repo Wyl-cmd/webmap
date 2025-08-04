@@ -1,6 +1,6 @@
 # Wyl-K Web Vulnerability Scanner
 
-Wyl-K 是一个功能强大的Web漏洞扫描器，能够检测SQL注入、XSS、文件上传等常见Web安全漏洞。
+WebMap 是一个功能强大的Web漏洞扫描器，能够检测SQL注入、XSS、文件上传等常见Web安全漏洞。
 
 ## 功能特点
 
