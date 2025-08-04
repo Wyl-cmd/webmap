@@ -1,4 +1,4 @@
-# Wyl-K Web Vulnerability Scanner
+# Web Vulnerability Scanner
 
 WebMap 是一个功能强大的Web漏洞扫描器，能够检测SQL注入、XSS、文件上传等常见Web安全漏洞。
 
